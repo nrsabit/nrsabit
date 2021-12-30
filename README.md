@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel / WordPress Theme Development**
 
-- 💬 Ask me about **HTMl, CSS, Bootstrap, PHP, MySql**
+- 💬 Ask me about **HTMl, CSS, Bootstrap, WordPress, PHP, MySql**
 
 - 📫 How to reach me **mailbox.sabit@gmail.com**
 
