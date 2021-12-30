@@ -1,24 +1,30 @@
-### Hi there 👋, My name is: Naeemur Rahman Sabit
-#### I am a professional Web Designer and WordPress Expert
 ![I am a professional Web Designer and WordPress Expert](https://github.com/nrsabit/nrsabit/blob/main/Noah%20Schumacher.png)
 
-I've been working with web design and WordPress Since 2019 and I've got very good experience in this field. So I can complete any kind of tasks related to Web design and WordPress, and also I can create any kind of HTML and WordPress template.
+<h1 align="center">Hi 👋, I'm Naeemur Rahman Sabit</h1>
+<h3 align="center">Web designer and WordPress Expert</h3>
 
-Skills: HTML / CSS / BOOTSTRAP / JQUERY / WORDPRESS / PHP / PHP OOP / MYSQL / SQLITE / AJAX / JSON
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrsabit&label=Profile%20views&color=0e75b6&style=flat" alt="nrsabit" /> </p>
 
-- 🔭 I’m currently working on upwork 
-- 🌱 I’m currently learning Laravel / WordPress Theme Development 
-- 💬 Ask me about Anything related to my skills 
+- 🔭 I’m currently working on [upwork](https://www.upwork.com)
 
+- 🌱 I’m currently learning **Laravel / WordPress Theme Development**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nrsabit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nrsabit//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdsabitnr)  
+- 💬 Ask me about **HTMl, CSS, Bootstrap, PHP, MySql**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/nrsabit)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **mailbox.sabit@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/nrsabit&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nrsabit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nrsabit/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mdsabitnr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsabitnr/" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/nrsabit)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/nrsabit)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrsabit&show_icons=true&locale=en&layout=compact" alt="nrsabit" /></p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/nrsabit)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrsabit&show_icons=true&locale=en" alt="nrsabit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrsabit&" alt="nrsabit" /></p>
+
