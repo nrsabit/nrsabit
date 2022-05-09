@@ -1,4 +1,4 @@
-![I am a professional Web Designer and WordPress Expert](https://github.com/nrsabit/nrsabit/blob/main/nrsabit-banner.png)
+![I am a professional Web Designer and WordPress Expert](https://ibb.co/8rgHmFh)
 
 <h1 align="center">Hi 👋, I'm Naeemur Rahman Sabit</h1>
 <h3 align="center">Web Designer | Frontend & PHP Developer | WordPress Customizer</h3>
