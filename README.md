@@ -1,5 +1,5 @@
 ![I am a professional Web Designer and WordPress Expert](
-https://github.com/nrsabit/nrsabit/blob/main/nrsabit-banner.png)
+https://github.com/nrsabit/nrsabit/blob/main/sabit-banner.png)
 
 <h1 align="center">Hi 👋, I'm Naeemur Rahman Sabit</h1>
 <h3 align="center">Web Designer | Frontend & PHP Developer | WordPress Customizer</h3>
