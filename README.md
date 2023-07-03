@@ -1,5 +1,5 @@
-![I am a professional Web Designer and WordPress Expert](
-https://github.com/nrsabit/nrsabit/blob/main/sabit-banner.png)
+![I am a professional MERN Stack Developer](
+https://github.com/nrsabit/nrsabit/blob/main/linkedin%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Naeemur Rahman Sabit</h1>
 <h3 align="center">Front-End Developer | Mern-Stack Developer | Full-Stack Developer</h3>
