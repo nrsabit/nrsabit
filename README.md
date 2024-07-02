@@ -3,6 +3,7 @@ https://github.com/nrsabit/nrsabit/blob/main/LInkedin%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Naeemur Rahman Sabit</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
+<p>I am a skilled full stack developer with expertise in building and maintaining complex web applications. I have a strong command of both front-end and back-end technologies, enabling me to handle every aspect of web development. My experience includes working with various programming languages, frameworks, and tools to deliver high-quality, scalable solutions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrsabit&label=Profile%20views&color=0e75b6&style=flat" alt="nrsabit" /> </p>
 
