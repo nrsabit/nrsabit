@@ -6,8 +6,6 @@ https://github.com/nrsabit/nrsabit/blob/main/LInkedin%20Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrsabit&label=Profile%20views&color=0e75b6&style=flat" alt="nrsabit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrsabit" alt="nrsabit" /></a> </p>
-
 - 🔭 I’m currently working on [Gooseberry](https://www.facebook.com/gooseberry05)
 
 - 🌱 I’m currently learning **Nest JS**
