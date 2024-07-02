@@ -1,8 +1,8 @@
-![I am a professional MERN Stack Developer](
-https://github.com/nrsabit/nrsabit/blob/main/linkedin%20banner.png)
+![I am a professional Full-Stack developer](
+https://github.com/nrsabit/nrsabit/blob/main/LInkedin%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Naeemur Rahman Sabit</h1>
-<h3 align="center">Front-End Developer | Mern-Stack Developer | Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrsabit&label=Profile%20views&color=0e75b6&style=flat" alt="nrsabit" /> </p>
 
